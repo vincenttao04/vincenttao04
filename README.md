@@ -20,4 +20,4 @@ I enjoy building software, working with data, and developing practical and innov
 
 ## Resume
 
-📄 [Download Resume](VincentTaoCV.pdf)
+📄 [View Resume](VincentTaoCV.pdf)

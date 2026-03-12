@@ -1,8 +1,8 @@
 ## Hi, I'm Vincent 👋
 
-Software Engineering and Finance student at the University of Auckland with a strong passion for technology, financial markets, and analytical problem-solving.
+Software Engineering and Finance student at the University of Auckland with interests in software development, financial markets, and analytical problem-solving.
 
-I enjoy building software, working with data, and developing practical and innovative solutions to real-world problems.
+I enjoy building practical software and developing data-driven solutions to real-world problems.
 
 ## Tech Stack
 
